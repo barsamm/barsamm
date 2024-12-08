@@ -11,7 +11,7 @@
 
 
 <a href="mailto:barsam.mousavi84@gmail.com">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png](https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png)" width="55" height="55" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="55" height="55" />
 </a>
 
 <a href="https://www.instagram.com/_bariiiiiii/">
