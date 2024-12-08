@@ -1,1 +1,1 @@
-![codecat]([[https://your-upload-link.gif](https://i.pinimg.com/originals/ef/c7/df/efc7df4bdceff01d890961f3eb368863.gif)](https://github.com/barsamm/codecat.git))
+![codecat](https://raw.githubusercontent.com/barsamm/codecat/refs/heads/main/-%20Find%20%26%20Share%20on%20GIPHY.gif)
