@@ -18,3 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55" height="55" />
 </a>
 
+<a href="https://discord.com/users/barsam84">
+    <img src="https://url.to/discord_logo.png" width="55" height="55" />
+</a>
+
