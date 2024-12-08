@@ -3,7 +3,7 @@
 ## 📬 How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bariiiiiiiii)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:barsam.mousavi84@gmail.com)
-<a href="https://www.instagram.com/bariiiiiii/">
+<a href="https://www.instagram.com/_bariiiiiii/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" />
 </a>
 
