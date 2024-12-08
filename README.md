@@ -1,7 +1,9 @@
 ![codecat](https://raw.githubusercontent.com/barsamm/codecat/refs/heads/main/-%20Find%20%26%20Share%20on%20GIPHY.gif)
 
 ## Me:
-Barsam Mousavi
+<h1 align="center">
+  <span style="color: #3498db;">Your</span>
+</h1>
 
 ## 📬 How to reach me:
 <a href="https://t.me/[yourusername](https://t.me/bariiiiiiiii)">
@@ -16,4 +18,3 @@ Barsam Mousavi
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" />
 </a>
 
-[![Discord](https://img.shields.io/badge/Discord-Join-blue?logo=discord)](https://discord.gg/barsam84)
