@@ -15,3 +15,5 @@ Barsam Mousavi
 <a href="https://www.instagram.com/_bariiiiiii/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" />
 </a>
+
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?logo=discord)](https://discord.gg/barsam84)
